@@ -1,0 +1,11 @@
+REQUIRED MODULES
+================
+
+discord.py
+asyncio
+sqlite3
+subprocess
+datetime
+random
+time
+os
